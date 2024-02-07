@@ -1,0 +1,2 @@
+2024-02-07 18:25:47,799 - INFO - Зашифрованные данные о криптовалютах успешно сохранены
+2024-02-07 18:25:47,806 - ERROR - Произошла ошибка при обновлении данных: 'charmap' codec can't encode character '\u20bd' in position 133: character maps to <undefined>
